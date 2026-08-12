@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: lightgreen;
+    font-family: Arial;
+}
+
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 15px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+
+button {
+    background-color: green;
+    color: white;
+
+    border: none;
+    padding: 10px 20px;
+
+    cursor: pointer;
+}
+
+
+main {
+    text-align: center;
+    padding: 30px;
+}
+
+
+input {
+    padding: 10px;
+    margin: 5px;
+}
+
+
+.results {
+    background-color: white;
+    margin: 30px auto;
+    padding: 20px;
+
+    max-width: 600px;
+}
